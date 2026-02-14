@@ -1,6 +1,6 @@
-# CampusSwap
+# Swapkaro
 
-Welcome to campusSwap, your go-to platform for trading and swapping goods within the campus community! Whether you're a student looking to sell textbooks, trade gadgets, or even find a roommate, campusSwap provides a seamless solution for buying, selling, and swapping items within your university or college campus.
+Welcome to Swapkaro, your go-to platform for trading and swapping goods within the campus community! Whether you're a student looking to sell textbooks, trade gadgets, or even find a roommate, Swapkaro provides a seamless solution for buying, selling, and swapping items within your university or college campus.
 
 ## Features
 
